@@ -20,6 +20,15 @@ body {
   font-size: 20px;
   color: #BB58A6;
 }
+.column {
+  width: 200px;
+  float: left;
+  color: #3B4E6B;
+}
+
 .contact {
-  text-align: center
+  text-align: center;
+  float: right;
+  font-weight: bolder;
+  color: #3B4E6B;
 }
