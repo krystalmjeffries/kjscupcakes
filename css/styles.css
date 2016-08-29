@@ -5,20 +5,24 @@ h1 {
 }
 body {
   background-color: #FFD5F6;
+  font-family: arial;
 }
 .header {
   color: #3B4E6B;
   font-size: 25px;
-  font-family: sans-serif;
+  font-family: georgia;
 }
 .medium-pic {
   max-width: 200px;
 }
 .list {
   font-weight: bolder;
-  font-family: arial;
   font-size: 20px;
   color: #BB58A6;
+
+}
+.list a {
+  font-style: italic
 }
 .column {
   width: 200px;
@@ -29,6 +33,7 @@ body {
   margin: 8px;
   background-color: #b0f0f8;
   text-align: center;
+  font-family: georgia;
 }
 
 .contact {
@@ -36,4 +41,7 @@ body {
   float: right;
   font-weight: bolder;
   color: #3B4E6B;
+}
+.contact a {
+  font-style: italic;
 }
